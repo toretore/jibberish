@@ -1,0 +1,2 @@
+require 'jibberish'
+Jibberish.write
